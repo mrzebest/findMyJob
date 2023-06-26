@@ -7,6 +7,13 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 ```sh
 npx create-expo-app -e with-router
 ```
+Creation 
+1. npx create-expo-app@latest --example with-router ./
+2. npm install expo-font axios react-native-dotenv
+3. npm install -g expo-cli
+
+Publication
+4. expo publish
 
 ## 📝 Notes
 
