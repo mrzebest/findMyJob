@@ -5,6 +5,7 @@ const COLORS = {
 
   gray: "#83829A",
   gray2: "#C1C0C8",
+  gray3: "#F4F4F4",
 
   white: "#F3F4F8",
   lightWhite: "#FAFAFC",
@@ -23,6 +24,7 @@ const SIZES = {
   large: 20,
   xLarge: 24,
   xxLarge: 32,
+  xxxLarge:70,
 };
 
 const SHADOWS = {
